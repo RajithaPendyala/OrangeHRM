@@ -1,0 +1,103 @@
+2023-03-07 11:49:50,658 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-07 11:49:54,830 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-07 11:49:55,580 - com.Utility.Log -INFO - The Expected LogIn Page Text is:-LOGIN Panel
+2023-03-07 11:49:55,612 - com.Utility.Log -INFO - The Actual LogIn Page Text is:-LOGIN Panel
+2023-03-07 11:49:55,616 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-07 11:49:55,818 - com.Utility.Log -INFO -  The UserName is :- Rajitha
+2023-03-07 11:49:55,824 - com.Utility.Log -INFO -  The Password is :- Abhi090310@
+2023-03-07 11:49:59,818 - com.Utility.Log -INFO -  The Expected HomePage Text is :- Welcome Admin
+2023-03-07 11:49:59,862 - com.Utility.Log -INFO -  The Actual HomePage Text is :- Welcome Admin
+2023-03-07 11:49:59,867 - com.Utility.Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2023-03-07 11:50:00,919 - com.Utility.Log -INFO - OrangeHRM Application LogOut Successful
+2023-03-07 11:50:01,583 - com.Utility.Log -INFO - OrangeHRM Application and the Browser Closed Successfully
+2023-03-07 22:33:38,982 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-07 22:33:42,842 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-07 22:33:43,551 - com.Utility.Log -INFO - The Expected LogIn Page Text is:-LOGIN Panel
+2023-03-07 22:33:43,592 - com.Utility.Log -INFO - The Actual LogIn Page Text is:-LOGIN Panel
+2023-03-07 22:33:43,597 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-07 22:33:43,765 - com.Utility.Log -INFO -  The UserName is :- Rajitha
+2023-03-07 22:33:43,770 - com.Utility.Log -INFO -  The Password is :- Abhi090310@
+2023-03-07 22:33:47,700 - com.Utility.Log -INFO -  The Expected HomePage Text is :- Welcome Admin
+2023-03-07 22:33:47,742 - com.Utility.Log -INFO -  The Actual HomePage Text is :- Welcome Admin
+2023-03-07 22:33:47,748 - com.Utility.Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2023-03-07 22:33:48,767 - com.Utility.Log -INFO - OrangeHRM Application LogOut Successful
+2023-03-07 22:33:49,449 - com.Utility.Log -INFO - OrangeHRM Application and the Browser Closed Successfully
+2023-03-07 22:50:19,257 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-07 22:50:19,695 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-07 22:50:24,573 - com.Utility.Log -INFO - OrangeHRM Application and the Browser Closed Successfully
+2023-03-08 10:54:11,876 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-08 10:54:17,041 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-08 10:54:27,445 - com.Utility.Log -INFO - OrangeHRM Application and the Browser Closed Successfully
+2023-03-08 12:08:33,193 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-08 12:08:33,928 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-08 12:08:34,909 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-08 12:11:46,946 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-08 12:11:47,647 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-08 12:11:48,538 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-08 12:13:05,682 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-08 12:13:06,315 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-08 12:13:07,248 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-08 12:22:19,104 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-08 12:22:19,674 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-08 12:22:20,626 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-08 12:48:11,220 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-08 12:48:11,814 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-08 12:48:12,735 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-08 12:50:09,801 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-08 12:50:10,341 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-08 12:50:11,302 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 12:43:21,044 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-09 12:43:21,930 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-09 12:43:22,948 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 13:28:46,566 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-09 13:28:47,145 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-09 13:28:48,186 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 13:31:26,534 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-09 13:31:27,155 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-09 13:31:28,106 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 13:45:28,626 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-09 13:45:29,297 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-09 13:45:30,268 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 14:09:07,531 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-09 14:09:09,895 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-09 14:09:10,893 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 14:14:42,711 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-09 14:14:43,590 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-09 14:14:44,923 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 14:27:08,714 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-09 14:27:09,381 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-09 14:27:10,298 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 14:31:02,307 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-09 14:31:03,017 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-09 14:31:03,915 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 14:31:57,582 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-09 14:31:58,186 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-09 14:31:59,144 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-09 14:32:17,914 - com.Utility.Log -INFO - OrangeHRM Application and the Browser Closed Successfully
+2023-03-10 17:47:45,263 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-10 17:47:49,951 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-10 17:47:50,735 - com.Utility.Log -INFO - The Expected LogIn Page Text is:-LOGIN Panel
+2023-03-10 17:47:50,773 - com.Utility.Log -INFO - The Actual LogIn Page Text is:-LOGIN Panel
+2023-03-10 17:47:50,779 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-10 17:47:50,987 - com.Utility.Log -INFO -  The UserName is :- Rajitha
+2023-03-10 17:47:50,991 - com.Utility.Log -INFO -  The Password is :- Abhi090310@
+2023-03-10 17:47:55,195 - com.Utility.Log -INFO -  The Expected HomePage Text is :- Welcome Admin
+2023-03-10 17:47:55,249 - com.Utility.Log -INFO -  The Actual HomePage Text is :- Welcome Admin
+2023-03-10 17:47:55,258 - com.Utility.Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2023-03-10 17:47:56,486 - com.Utility.Log -INFO - OrangeHRM Application LogOut Successful
+2023-03-10 17:47:57,217 - com.Utility.Log -INFO - OrangeHRM Application and the Browser Closed Successfully
+2023-03-10 17:59:24,278 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-10 17:59:24,852 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-10 17:59:25,719 - com.Utility.Log -INFO - The Expected LogIn Page Text is:-LOGIN Panel
+2023-03-10 17:59:25,764 - com.Utility.Log -INFO - The Actual LogIn Page Text is:-LOGIN Panel
+2023-03-10 17:59:25,769 - com.Utility.Log -INFO - Successfully Navigated to OrangeHRM Application LogIn Page - PASS
+2023-03-10 17:59:25,957 - com.Utility.Log -INFO -  The UserName is :- Rajitha
+2023-03-10 17:59:25,963 - com.Utility.Log -INFO -  The Password is :- Abhi090310@
+2023-03-10 17:59:27,354 - com.Utility.Log -INFO -  The Expected HomePage Text is :- Welcome Admin
+2023-03-10 17:59:27,400 - com.Utility.Log -INFO -  The Actual HomePage Text is :- Welcome Admin
+2023-03-10 17:59:27,406 - com.Utility.Log -INFO -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+2023-03-10 17:59:28,249 - com.Utility.Log -INFO - OrangeHRM Application LogOut Successful
+2023-03-10 17:59:28,962 - com.Utility.Log -INFO - OrangeHRM Application and the Browser Closed Successfully
+2023-03-10 17:59:30,205 - com.Utility.Log -INFO -  Chrome Browser Launched Successfully 
+2023-03-10 17:59:30,839 - com.Utility.Log -INFO -  Successfully entered OrangeHRM Application Url Address
+2023-03-10 17:59:47,740 - com.Utility.Log -INFO - OrangeHRM Application and the Browser Closed Successfully

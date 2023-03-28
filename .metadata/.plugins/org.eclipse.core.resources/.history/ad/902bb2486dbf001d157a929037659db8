@@ -1,0 +1,7 @@
+<suite name = "OrangeHRM Application">
+  <test name = "OrangeHRM LogIn Test">
+    <classes>
+      <class name = "com.OHRM_TestCases.OHRM_LogInTest" />
+    </classes>
+  </test>
+</suite>

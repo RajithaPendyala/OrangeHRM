@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ChromeDriverFile&apos; to &apos;OrangeHRM_Cucumber&apos;&#x0D;&#x0A;- Original project: &apos;WebTesting&apos;&#x0D;&#x0A;- Destination element: &apos;OrangeHRM_Cucumber&apos;&#x0D;&#x0A;- Original element: &apos;ChromeDriverFile&apos;" description="Copy folder" element1="ChromeDriverFile" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1679954123971" target="/OrangeHRM_Cucumber" units="0" version="1.0"/>
+</session>

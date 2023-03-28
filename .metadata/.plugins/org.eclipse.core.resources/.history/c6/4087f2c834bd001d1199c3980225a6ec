@@ -1,0 +1,26 @@
+package com.TestNGWebTable;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.testng.annotations.Test;
+
+public class WebTable_DynamicWebTableDataCapture extends BaseTest {
+	
+@Test
+public void dynamicWebTableDataCapture()
+{
+	
+	//Identifying The WebTable
+	// /html/body/div[5]/section[1]/div/section/div[1]/div/table
+	
+	By webTableLocator = By.xpath("/html/body/div[5]/section[1]/div/section/div[1]/div/table");
+	WebElement webTable = driver.findElement(webTableLocator);
+	
+	//Identifying the Rows in the WebTable
+     List<WebElement>webTableRows = webTable.findElements(By.tagName("tr"));
+	
+	
+}
+}

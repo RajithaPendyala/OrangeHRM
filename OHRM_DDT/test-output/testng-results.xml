@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T17:59:22 GMT" name="OrangeHRM Application" finished-at="2023-03-10T17:59:47 GMT" duration-ms="25300">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T17:59:22 GMT" name="OrangeHRM LogIn Test" finished-at="2023-03-10T17:59:28 GMT" duration-ms="6522">
+      <class name="com.OHRM_TestCases.OHRM_LogInTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OHRM_TestCases.OHRM_LogInTest@22e357dc]" started-at="2023-03-10T17:59:22 GMT" name="setUp" finished-at="2023-03-10T17:59:25 GMT" duration-ms="2584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingOrangeHRMApplicationLogInPageTest()[pri:1, instance:com.OHRM_TestCases.OHRM_LogInTest@22e357dc]" started-at="2023-03-10T17:59:25 GMT" name="validatingOrangeHRMApplicationLogInPageTest" description="Validating LogInPage Test" finished-at="2023-03-10T17:59:25 GMT" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingOrangeHRMApplicationLogInPageTest -->
+        <test-method signature="validatingLogInTest()[pri:2, instance:com.OHRM_TestCases.OHRM_LogInTest@22e357dc]" started-at="2023-03-10T17:59:25 GMT" name="validatingLogInTest" description="Validating LogIn functionality" finished-at="2023-03-10T17:59:27 GMT" duration-ms="1494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingLogInTest -->
+        <test-method signature="logOutTest()[pri:3, instance:com.OHRM_TestCases.OHRM_LogInTest@22e357dc]" started-at="2023-03-10T17:59:27 GMT" name="logOutTest" description="Validating LogOut Test" finished-at="2023-03-10T17:59:28 GMT" duration-ms="808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OHRM_TestCases.OHRM_LogInTest@22e357dc]" started-at="2023-03-10T17:59:28 GMT" name="tearDown" finished-at="2023-03-10T17:59:28 GMT" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OHRM_TestCases.OHRM_LogInTest -->
+    </test> <!-- OrangeHRM LogIn Test -->
+    <test started-at="2023-03-10T17:59:28 GMT" name="OrangeHRM AddEmployee Test" finished-at="2023-03-10T17:59:47 GMT" duration-ms="18757">
+      <class name="com.OHRM_TestCases.OHRM_AddEmployee">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OHRM_TestCases.OHRM_AddEmployee@7133da86]" started-at="2023-03-10T17:59:28 GMT" name="setUp" finished-at="2023-03-10T17:59:31 GMT" duration-ms="2028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingOrangeHRMApplicationLogInPageTest()[pri:1, instance:com.OHRM_TestCases.OHRM_AddEmployee@7133da86]" started-at="2023-03-10T17:59:31 GMT" name="validatingOrangeHRMApplicationLogInPageTest" description="Validating LogInPage Test" finished-at="2023-03-10T17:59:31 GMT" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingOrangeHRMApplicationLogInPageTest -->
+        <test-method signature="validating_OrangeHRM_LoginPageTitle()[pri:2, instance:com.OHRM_TestCases.OHRM_AddEmployee@7133da86]" started-at="2023-03-10T17:59:31 GMT" name="validating_OrangeHRM_LoginPageTitle" description="Validating OrangeHRM Login Page Title" finished-at="2023-03-10T17:59:31 GMT" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validating_OrangeHRM_LoginPageTitle -->
+        <test-method signature="validatingLogInTest()[pri:3, instance:com.OHRM_TestCases.OHRM_AddEmployee@7133da86]" started-at="2023-03-10T17:59:31 GMT" name="validatingLogInTest" description="Validating LogIn functionality" finished-at="2023-03-10T17:59:32 GMT" duration-ms="1438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingLogInTest -->
+        <test-method signature="pimTest()[pri:4, instance:com.OHRM_TestCases.OHRM_AddEmployee@7133da86]" started-at="2023-03-10T17:59:32 GMT" name="pimTest" description="Validating HomePage PIM functionality " finished-at="2023-03-10T17:59:32 GMT" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pimTest -->
+        <test-method signature="addEmployeeTest()[pri:5, instance:com.OHRM_TestCases.OHRM_AddEmployee@7133da86]" started-at="2023-03-10T17:59:32 GMT" name="addEmployeeTest" description="Validating HomePage PIM_AddEmployee functionality" finished-at="2023-03-10T17:59:33 GMT" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeeTest -->
+        <test-method signature="validatingAddEmployeePageText()[pri:6, instance:com.OHRM_TestCases.OHRM_AddEmployee@7133da86]" started-at="2023-03-10T17:59:33 GMT" name="validatingAddEmployeePageText" description="Validating - AddEmployee Page Text" finished-at="2023-03-10T17:59:33 GMT" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingAddEmployeePageText -->
+        <test-method signature="createNewEmployee()[pri:7, instance:com.OHRM_TestCases.OHRM_AddEmployee@7133da86]" started-at="2023-03-10T17:59:33 GMT" name="createNewEmployee" description="Create New Employee To OrangeHRM Application" finished-at="2023-03-10T17:59:47 GMT" duration-ms="13114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewEmployee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OHRM_TestCases.OHRM_AddEmployee@7133da86]" started-at="2023-03-10T17:59:47 GMT" name="tearDown" finished-at="2023-03-10T17:59:47 GMT" duration-ms="737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OHRM_TestCases.OHRM_AddEmployee -->
+    </test> <!-- OrangeHRM AddEmployee Test -->
+  </suite> <!-- OrangeHRM Application -->
+</testng-results>

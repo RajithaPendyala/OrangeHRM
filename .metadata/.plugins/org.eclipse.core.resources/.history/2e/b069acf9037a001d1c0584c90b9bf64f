@@ -1,0 +1,20 @@
+package com.BasicJava;
+
+public class DataTypesPractise {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+	byte byteVar=10;
+	System.out.println("The Value of Byte Variable byteVar is " +byteVar);
+	
+	short shortVar = 100;
+	System.out.println("The Value of Short Variable shortVar is " +shortVar);
+	
+	int intVar = 1000001;
+	System.out.println("The Value of integer Variable intVar is " +intVar);
+	
+	}
+
+}
